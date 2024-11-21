@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Semicolon IT Solution(On-site)**
  
- 🌱 I’m currently learning **PHP, Docker**
+ 🌱 I’m currently learning **Node Js, Docker**
 
 💬 Ask me about **Javascript ... or anything**
 
