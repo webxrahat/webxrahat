@@ -6,17 +6,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Semicolon IT Solution(On-site)**
- 
- 🌱 I’m currently learning **Node Js, Docker**
-
-💬 Ask me about **Javascript ... or anything**
-
-⚡ Fun fact **Coding Journey**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:rahat.semicolonit@gmail.com">
