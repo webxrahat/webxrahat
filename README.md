@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
 
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,express,nodejs,mongodb,postgres,docker,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,express,nodejs,mongodb,postgres,docker,jest" />
 </div>
 
 
