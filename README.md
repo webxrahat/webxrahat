@@ -4,6 +4,15 @@
 
 <br/>
 
+# Backend Mind Map 
+- Feature Plan →
+- Database Design →
+- API Design →
+- Project Setup →
+- Implement →
+- Test →
+- Improve
+
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git,ubuntu,vercel,wordpress,postman" /> -->
     <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,redux,nextjs,express,nodejs,mongodb,postgres,docker,jest" /><br>
