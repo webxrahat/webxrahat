@@ -4,7 +4,7 @@
 
 <br/>
 
-# I'm currently learn Backend development and server deployment
+# I'm Currently Learn Backend Development and Server Deployment
 
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git,ubuntu,vercel,wordpress,postman" /> -->
