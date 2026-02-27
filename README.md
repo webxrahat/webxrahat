@@ -4,14 +4,7 @@
 
 <br/>
 
-# Backend Mind Map 
-- Feature Plan →
-- Database Design →
-- API Design →
-- Project Setup →
-- Implement →
-- Test →
-- Improve
+# I'm currently learn Backend development and server deployment
 
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git,ubuntu,vercel,wordpress,postman" /> -->
