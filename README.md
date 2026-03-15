@@ -11,6 +11,9 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 <p align="center">
 📍 Bangladesh • 🌍 Open to Remote Work • 💼 Freelance Available
 </p>
+<p align="center">
+📧 Email: <b>islammdrahat308@gmail.com</b>
+</p>
 
 <br>
 
