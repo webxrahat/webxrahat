@@ -79,8 +79,7 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=webxrahat&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=webxrahat&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 <br>
