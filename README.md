@@ -75,14 +75,14 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <br>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<!-- <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=webxrahat&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10"/>
 </div>
 
-<br>
+<br> -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
