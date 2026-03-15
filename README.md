@@ -69,7 +69,7 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webxrahat&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -79,7 +79,7 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=webxrahat&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
