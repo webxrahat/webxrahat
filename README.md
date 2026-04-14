@@ -44,7 +44,7 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 </div>
 
-<br>
+<br> -->
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
