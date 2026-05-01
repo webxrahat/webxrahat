@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rahat Islam</h1>
 
 <h3 align="center">
-Full-Stack Web Developer | React • Next.js • Node.js 
+WordPress Developer • Theme & Plugin Development • React Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web apps, modern UI experiences, and high-performance backend systems.
+Building clean, responsive, and scalable web experiences with modern WordPress development.
 </p>
 
 <p align="center">
 📍 Bangladesh • 🌍 Open to Remote Work • 💼 Freelance Available
 </p>
+
 <p align="center">
-📧 Email: <b>islammdrahat308@gmail.com</b>
+📧 <b>islammdrahat308@gmail.com</b>
 </p>
 
 <br>
@@ -20,10 +21,11 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-💻 Full-Stack Developer focused on modern web technologies <br>
-⚛️ Specialized in React, Next.js, Node.js <br>
-🧠 Passionate about system design, scalable APIs, and performance optimization <br>
-🚀 Currently building portfolio-level full-stack applications
+💻 Frontend-focused developer passionate about modern web development <br>
+⚙️ Currently learning advanced WordPress Theme & Plugin Development <br>
+⚛️ Exploring React and JavaScript-powered WordPress experiences <br>
+🎨 Interested in clean UI, performance, and user-focused design <br>
+🚀 Building projects and improving every day through consistent learning
 </p>
 
 <br>
@@ -31,44 +33,20 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 <h2 align="center">🧠 Tech Stack</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,threejs,redux,nextjs,express,nodejs,mongodb,postgres,docker,jest" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,wordpress,mysql" />
 </div>
 
 <br>
 
-<h2 align="center">⚙️ Tools & Platforms</h2>
+<h2 align="center">⚙️ Tools</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
 </div>
 
 <br>
 
-<!-- <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=webxrahat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webxrahat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=webxrahat&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br> -->
-
-<h2 align="center">📈 GitHub Activity Graph</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
 
@@ -78,49 +56,42 @@ Building scalable web apps, modern UI experiences, and high-performance backend 
 
 <br>
 
-<!-- <h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=webxrahat&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10"/>
-</div>
-
-<br> -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
 
-🔹 Full-Stack Social Media App <br>
-React • Node.js • MongoDB
+🔹 WordPress Theme Development
 
 <br><br>
 
-🔹 Coming Soon
+🔹 Custom Plugin Development
 
 <br><br>
 
-🔹 Modern eCommerce Platform <br>
-React.js • Node.js • AI Integration
+🔹 Gutenberg & Modern WordPress Development
+
+<br><br>
+
+🔹 React & JavaScript Ecosystem
 
 </p>
 
 <br>
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
 
-📧 Email: <b>islammdrahat308@gmail.com</b>
+📧 <b>islammdrahat308@gmail.com</b>
 
 <br><br>
 
-💼 Open to <b>Freelance • Remote Jobs • Collaboration</b>
+💼 Open to <b>Freelance • Collaboration • Remote Opportunities</b>
 
 </p>
 
 <br>
 
 <p align="center">
-⭐ If you like my work, consider following me and starring my repositories.
+⭐ Focused on growth, consistency, and building meaningful web experiences.
 </p>
