@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahat Islam</h1>
 
 <h3 align="center">
-WordPress Developer • Theme & Plugin Development • React Enthusiast
+Shopify Developer • WordPress Developer • React Enthusiast
 </h3>
 
 <p align="center">
-Building clean, responsive, and scalable web experiences with modern WordPress development.
+Building clean, responsive, and scalable eCommerce and web experiences with modern development technologies.
 </p>
 
 <p align="center">
@@ -21,9 +21,10 @@ Building clean, responsive, and scalable web experiences with modern WordPress d
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-💻 Frontend-focused developer passionate about modern web development <br>
-⚙️ Currently learning advanced WordPress Theme & Plugin Development <br>
-⚛️ Exploring React and JavaScript-powered WordPress experiences <br>
+💻 Frontend-focused developer passionate about eCommerce and modern web development <br>
+🛍️ Currently focusing on Shopify Development and custom storefront experiences <br>
+⚙️ Experienced in WordPress Theme & Plugin Development <br>
+⚛️ Exploring React and JavaScript-powered web applications <br>
 🎨 Interested in clean UI, performance, and user-focused design <br>
 🚀 Building projects and improving every day through consistent learning
 </p>
@@ -33,7 +34,7 @@ Building clean, responsive, and scalable web experiences with modern WordPress d
 <h2 align="center">🧠 Tech Stack</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,wordpress,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,shopify,php,wordpress,mysql" />
 </div>
 
 <br>
@@ -60,15 +61,11 @@ Building clean, responsive, and scalable web experiences with modern WordPress d
 
 <p align="center">
 
-🔹 WordPress Theme Development
+🔹 Shopify Development
 
 <br><br>
 
-🔹 Custom Plugin Development
-
-<br><br>
-
-🔹 Gutenberg & Modern WordPress Development
+🔹 Shopify Theme Customization
 
 <br><br>
 
@@ -93,5 +90,5 @@ Building clean, responsive, and scalable web experiences with modern WordPress d
 <br>
 
 <p align="center">
-⭐ Focused on growth, consistency, and building meaningful web experiences.
+⭐ Focused on growth, consistency, and building meaningful eCommerce & web experiences.
 </p>
