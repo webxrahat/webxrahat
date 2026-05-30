@@ -44,15 +44,6 @@ Building clean, responsive, and scalable eCommerce and web experiences with mode
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
 </div>
 
-<br>
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=webxrahat&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 <br>
 
