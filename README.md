@@ -53,11 +53,11 @@ Building clean, responsive, and scalable eCommerce and web experiences with mode
 
 🔹 Shopify Development
 
-<br><br>
+<br>
 
 🔹 Shopify Theme Customization
 
-<br><br>
+<br>
 
 🔹 React & JavaScript Ecosystem
 
@@ -71,7 +71,7 @@ Building clean, responsive, and scalable eCommerce and web experiences with mode
 
 📧 <b>islammdrahat308@gmail.com</b>
 
-<br><br>
+<br>
 
 💼 Open to <b>Freelance • Collaboration • Remote Opportunities</b>
 
